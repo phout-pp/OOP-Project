@@ -6,9 +6,8 @@ public class Person {
     private int getAge(){
         return this.Age;
     }
-
     public void printlninfomation(){
-        Instrutor instrutorobj = new Instrutor();
+        System.out.println();
         
     }
 }
