@@ -1,4 +1,4 @@
 package allPackage;
-public class Students extends Select {
+public class Students  {
     protected int Year;
 }

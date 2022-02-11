@@ -1,5 +1,5 @@
 package allPackage;
-public class Course extends Select{
+public class Course {
     protected String Name;
     protected double Grade;
 }
